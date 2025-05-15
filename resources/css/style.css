@@ -1,0 +1,79 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    
+}
+header {
+    text-align: center;
+}
+header p {
+    text-align: center;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+header a {
+    font-weight: normal;
+    color: aquamarine;
+    font-size: 16px;
+    
+}
+
+video {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    top: 20px;
+    margin-top: 30px;
+}
+div .h {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Verdana;
+
+}
+.main-h {
+    
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+.second-h {
+    font-size: 21px;
+    color: grey;
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+div img {
+    display: block;
+    margin: 0 auto;
+}
+.app {
+    display: block;
+    margin: 0 auto;
+}
+
+.h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Verdana;
+    color: white;
+    font-size: 42px;
+
+}
+section a {
+    font-weight: normal;
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
